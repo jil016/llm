@@ -1,0 +1,8 @@
+config.mk
+build
+.vscode
+.idea
+.DS_Store
+*.DS_Store
+**/.DS_Store
+*.json
