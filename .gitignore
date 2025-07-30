@@ -1,3 +1,6 @@
+docs
+dataset
+
 config.mk
 build
 .vscode
@@ -5,4 +8,5 @@ build
 .DS_Store
 *.DS_Store
 **/.DS_Store
-*.json
+*.
+log*
